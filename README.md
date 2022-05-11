@@ -7,8 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Zadanie rekrutacyjne Daftcode
-
 How to run project
 ```
 git clone https://github.com/Raloseq/Daftcode-PHP-Zadanie.git
